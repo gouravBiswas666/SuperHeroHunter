@@ -22,8 +22,10 @@ To deploy this project, simply open the index.html file in your browser.
 
 ## Demo
 
+VIDEO - https://drive.google.com/file/d/1kGrYnjhhx1l4TdPqBElbCb0-QDysEdDG/view
+
 
 
 ## Authors
- 
+  INSTA - IG_ARMINIUS
 
